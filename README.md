@@ -1,5 +1,6 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-
+# NAME.- AASHIKA JAIN.G
+# REG NO.-24900589
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -42,6 +43,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![EDM EX1 2024-10-22 075812](https://github.com/user-attachments/assets/d400e83d-095d-411f-b6b5-7d95c603d16e)
+
 
 
 ## RESULT
